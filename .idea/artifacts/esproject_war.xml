@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="esproject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tets.war">
+      <element id="artifact" artifact-name="esproject:war exploded" />
+    </root>
+  </artifact>
+</component>
